@@ -29,13 +29,12 @@ Clone the SSH locally.
 Upon opening the webpage, use the navigation bar at the top to skip through the page to each section.
     
 
-![Uploading screenshot2.png…]()
+
+screenshot2.png
 
 Once you have navigated to the work section, you may navigate to each external project by clicking on the appropriate section.
 
-```md
-    ![alt text](images/screenshot.png)
-    ```
+screenshot.png
 
 
 ## Credits
