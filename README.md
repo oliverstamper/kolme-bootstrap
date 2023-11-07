@@ -1,4 +1,4 @@
-# kolme-bootstrap
+![screenshot2](https://github.com/oliverstamper/kolme-bootstrap/assets/148012712/48611ef4-e504-4ead-a7e8-917fa7cd7ce0)# kolme-bootstrap
 
 
 ## Description
@@ -14,6 +14,7 @@ The third challenge culminated of building another portfolio, incorporating boot
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
+
 - [License](#license)
 
 ## Installation
@@ -28,9 +29,7 @@ Clone the SSH locally.
 Upon opening the webpage, use the navigation bar at the top to skip through the page to each section.
     
 
-```md
-    ![Website screenshot showing nav bar](images/screenshot2.png)
-    ```
+![Uploading screenshot2.png…]()
 
 Once you have navigated to the work section, you may navigate to each external project by clicking on the appropriate section.
 
