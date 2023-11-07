@@ -34,7 +34,8 @@ Upon opening the webpage, use the navigation bar at the top to skip through the 
 
 Once you have navigated to the work section, you may navigate to each external project by clicking on the appropriate section.
 
-![screenshot]
+!(images/screenshot.png)
+
 
 
 
