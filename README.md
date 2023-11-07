@@ -27,11 +27,11 @@ Clone the SSH locally.
 
 Upon opening the webpage, use the navigation bar at the top to skip through the page to each section.
     
-url(images/screenshot2.png)
+(images/screenshot2.png)
 
 Once you have navigated to the work section, you may navigate to each external project by clicking on the appropriate section.
 
-url(images/screenshot.png)
+(images/screenshot.png)
 
 ## Credits
 
