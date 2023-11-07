@@ -1,4 +1,4 @@
-![screenshot2](https://github.com/oliverstamper/kolme-bootstrap/assets/148012712/48611ef4-e504-4ead-a7e8-917fa7cd7ce0)# kolme-bootstrap
+
 
 
 ## Description
@@ -30,7 +30,7 @@ Upon opening the webpage, use the navigation bar at the top to skip through the 
     
 
 
-screenshot2.png
+![screenshot2](https://github.com/oliverstamper/kolme-bootstrap/assets/148012712/48611ef4-e504-4ead-a7e8-917fa7cd7ce0)# kolme-bootstrap
 
 Once you have navigated to the work section, you may navigate to each external project by clicking on the appropriate section.
 
